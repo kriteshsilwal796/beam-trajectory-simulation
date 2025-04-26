@@ -10,3 +10,10 @@ The code shows how the particle’s trajectory changes when the magnetic field s
 
 ```bash
 pip install numpy matplotlib
+```
+
+2. Copy the code and run in the terminal:
+
+```bash
+python beam_trajectory.py
+```
